@@ -4,6 +4,7 @@
 ### Aim: To write the prompt for the following prompt types and ompare that with differenet AI tools and evaluate that using any one evaluation method (eg. Rubrics). 1.Comparative Analysis Prompt 2. Experiential Perspective Prompt 3. Everyday Functioning Prompts 4. Universal Prompt Structures Prompt Refinements 5. Prompt Size Limitations design an AI 
 
 ### Explanation - Any one use case from Unit 5 and write the prompt for that with the unit 2 Prompt types given above.
+<img width="592" height="747" alt="{6FD3A610-7B24-4E2B-9FAB-DCE0F3F74171}" src="https://github.com/user-attachments/assets/654cd787-0490-45f6-a137-e359e7cd62f4" />
 
 Procedure:
 1.	Define the Scenario and Use Case:
